@@ -197,31 +197,26 @@ main {
    height: 25%;
 }
 
-.btn button{
+.btn button {
    border: none;
    cursor: pointer;
-   width: 100%;
+   width: 97%;
    background-color: var(--Green);
    color: white;
    text-align: center;
    height: 45%;
-   border-radius: .5rem;
-   word-spacing: .1rem;
+   border-radius: 0.5rem;
+   word-spacing: 0.1rem;
    text-transform: uppercase;
 }
 
-.btn p{
+.btn p {
    padding: 0 1rem;
    line-height: 1.5rem;
    text-align: center;
-   font-size: .8rem;
+   font-size: 0.8rem;
    color: var(--Grayish-Blue);
 }
-.btn span{
+.btn span {
    color: var(--Red);
-   
 }
-
-
-
-
