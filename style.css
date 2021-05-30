@@ -156,6 +156,7 @@ main {
    width: 98%;
    height: 60%;
    outline: none;
+   background-color: white;
    border: 1px solid var(--Dark-Blue);
 }
 
